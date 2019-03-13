@@ -1,5 +1,7 @@
 ## Learning Bio-Informatics through Rosalind
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/acd52f6fa3af452fbcd87aad01bdd2d9)](https://app.codacy.com/app/BurnerB/Bio-Informatics?utm_source=github.com&utm_medium=referral&utm_content=BurnerB/Bio-Informatics&utm_campaign=Badge_Grade_Dashboard)
+
 My attempt to learn Bio-informatics through http://rosalind.info/problems/locations/
 
 ## About Rosalind
