@@ -16,7 +16,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
 more-itertools==5.0.0
-numpy==1.16.2
+numpy==1.22.0
 pathlib2==2.3.3
 pluggy==0.8.0
 py==1.7.0
